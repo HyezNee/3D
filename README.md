@@ -1,2 +1,2 @@
 # 3D
-Diffusion, Deception, Detector
+Diffusion Deception Detector
