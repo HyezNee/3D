@@ -1,7 +1,9 @@
 # 3D: Diffusion Deception Detector
 
 Project for DATA302, Basic Computer Vision and Applications.
+We aim to find the best model structure to distinguish diffusion-generated fake images from real ones.
 
+---
 
 
 🎆 v1. 3d_project.ipynb: code for testing pretrained models. no fine-tuning.
