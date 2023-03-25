@@ -1,6 +1,7 @@
 # 3D: Diffusion Deception Detector
 
 Project for DATA302, Basic Computer Vision and Applications.
+
 We aim to find the best model structure to distinguish diffusion-generated fake images from real ones.
 
 ---
