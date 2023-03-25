@@ -7,9 +7,9 @@ We aim to find the best model structure to distinguish diffusion-generated fake 
 ---
 
 
-🎆 v1. 3d_project.ipynb: code for testing pretrained models. no fine-tuning.
+🎆 v1. 3d_project.ipynb: code for testing pretrained models. no fine-tuning. [convnext]
 
-🥔 v2. potato_soup.ipynb: code for fine-tuning pretrained models and testing. 
+🥔 v2. potato_soup.ipynb: code for fine-tuning pretrained models and testing. [convnext]
 * modify `MY_DIR` in 'Get Dataset'
 * add models name, input_size, classifier_in_feature in 'Env'. **DO NOT ERASE any model's info**
 * save your best model and the result. 
