@@ -13,3 +13,8 @@ We aim to find the best model structure to distinguish diffusion-generated fake 
 * modify `MY_DIR` in 'Get Dataset'
 * add models name, input_size, classifier_in_feature in 'Env'. **DO NOT ERASE any model's info**
 * save your best model and the result. 
+
+v3. trainandtest.ipynb: code with training and testing code with real images and fake images. [convnext]
+* modify `MY_DIR` in 'Get Dataset'
+* add models name, input_size, classifier_in_feature in 'Env'. **DO NOT ERASE any model's info**
+* save your best model and the result. 
