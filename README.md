@@ -4,6 +4,8 @@ Project for DATA302, Basic Computer Vision and Applications.
 
 We aim to find the best model structure to distinguish diffusion-generated fake images from real ones.
 
+[report](https://github.com/HyezNee/3D/blob/main/report.pdf)
+
 ---
 
 
