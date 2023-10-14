@@ -6,6 +6,10 @@ We aim to find the best model structure to distinguish diffusion-generated fake 
 
 [report](https://github.com/HyezNee/3D/blob/main/report.pdf)
 
+![img](https://github.com/HyezNee/3D/blob/main/figure1.png)
+
+
+
 ---
 
 
